@@ -1,0 +1,121 @@
+    <html>
+    <head>
+         <title>Primeira Página</title>    
+    </head>
+
+    <body>
+            <h1>Bem vindo(a) ao meu site.</h1>
+            <h2>Título 2</h2>
+            <h3>Título 3</h3>
+            <h4>Título 4</h4>
+            <h5>Título 5</h5>
+            <h6>Título 6</h6>
+
+            <h4>Lista de Compras</h4>
+            <ul>
+                <li>Fejão</li>
+                <li>Arroz</li>
+                <li>Tomate</li>
+                <li>Alface</li>
+                <li>Carne</li>
+            </ul>
+           
+            <h4>Lista de Compras Numerada</h4>
+            <ol>
+                <li>Fejão</li>
+                <li>Arroz</li>
+                <li>Tomate</li>
+                <li>Alface</li>
+                <li>Carne</li>
+            </ol>
+            
+       
+    </body>
+    </html>
+    
+    <h3>Tabela de Preços</h3>
+    <img src="Preço.jfif" alt="Preço">
+    
+    <table border="2">
+     <thead>     
+        <tr>
+        <th>Carboidratos</th>
+        <th>Proteínas</th>
+        <th>Verduras</th>
+        </tr>
+       </thead> 
+    <tbody>
+        <tr>
+            <td>Feijao</td>
+            <td>Cupim</td>
+            <td>Batata</td>
+        </tr>      
+        <tr><td>10R$</td>
+        <td>45R$ KG</td>
+    <td>20R$ KG</td>
+    </tr> 
+    </tbody>
+    <body> 
+        <thead>
+            <tr>
+                <th>Arroz</th>
+                <th>Fraldinha</th>
+                <th>Brócolis</th>
+            </tr>
+        </thead>
+        <thead>
+            <tbody>
+                <tr>
+                    <th>25R$</th>
+                    <th>55R$ KG</th>
+                    <th>15R$ KG</th>
+                </tr>
+            </tbody>
+        </thead>
+        <body>
+            <thead>
+                <tr>
+                    <th>Pão</th>
+                    <th>Coxao Mole</th>
+                    <th>Abóbora</th>
+                </tr>
+            </thead>
+        </body>
+        <body>
+            <thead>
+                <tr>
+                    <th>1R$</th>
+                    <th>25R$ KG</th>
+                    <th>10R$ KG</th>
+                </tr>
+            </thead>
+        </body>
+    </table>
+    
+    <h2>Tabela dentro da Cedula</h2>
+    
+    <table border="1">
+        <thead>
+            <tr>
+                <th>País</th>
+                <th>Informações Adicionais</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+               <td>Brasil</td>
+               <td>
+                <table border="1">
+                <thead>
+                    <tr>
+                        <th>Capital</th>
+                        <th>População</th>
+
+                    </tr>
+                </thead>        
+                </table>
+            </tr>
+        </tbody>
+    </table>        
+
+        <p>Este é o corpo do meu site.</p>
